@@ -1,0 +1,7 @@
+Create a Virtual Environment Run the following command:
+
+apt install python3.12-venv
+
+python3 -m venv .venv
+
+. .venv/bin/activate	
